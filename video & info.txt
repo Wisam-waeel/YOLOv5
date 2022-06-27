@@ -1,0 +1,4 @@
+in this project i used YOLOv5 to detect broiler chicken in local farms with only 30 labeled images in the dataset 
+the link of the video >>>
+
+https://youtu.be/NJf90LlP2vM 
